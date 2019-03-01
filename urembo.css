@@ -1,0 +1,37 @@
+table{
+    width: 50%;
+    margin-right: 30%;
+    margin-left: 10%;
+    background-color: #fd7e14;
+}
+th,td{
+    font-size: larger;
+    font-weight: bold;
+    color: black;
+}
+table,th,td{
+    border: 2px crimson;
+    border-collapse: collapse;
+    padding: 10px;
+}
+tr{
+    background-color: coral;
+    color: black;
+}
+caption{
+    text-align: center;
+    text-decoration-color: #0c5460;
+    text-shadow: 2px 4px 5px #491217;
+
+}
+h1{
+    text-align: center;
+    text-decoration-color: #0c5460;
+    text-shadow: 2px 4px 5px orangered;
+}
+.r{
+    background-color: cornsilk;
+}
+.t{
+    alignment: center;
+}
